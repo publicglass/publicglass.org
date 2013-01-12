@@ -1,0 +1,19 @@
+!!! Strict
+%html
+  %head
+    %title= title 
+    = stylesheet_link_tag "screen", media: "all"
+
+    %meta{name: "viewport", content: "width=device-width, initial-scale=1, maximum-scale=1"}
+    %link{rel:"alternate", type: "application/atom+xml", title: "#{I18n.t('app.name')} feed", href: "/feed.atom"}
+
+  %body{class: ("page" unless root?)}
+    %div{role: "container"}
+      %header
+        = partial 'header'
+
+      %div{role: 'main'}
+        = yield
+
+      %footer
+        = partial 'footer'

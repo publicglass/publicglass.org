@@ -1,0 +1,104 @@
+@import "compass"
+@import "blueprint"
+
++reset-html5
++blueprint-typography
+
+@import "./pages/about"
+@import "./pages/membership"
+
+html body
+
+[role="container"]
+  +container
+  padding: 10px
+
+  & > header
+    hgroup
+      padding-bottom: 2em
+      +column(8)
+
+      background: image-url("public-glass.svg") left center no-repeat
+      padding-left: 100px
+      background-size: 80px 80px
+
+      h1
+        font-weight: bold
+        margin-bottom: 0
+
+      h2
+        font-size: 1.25em
+        margin-top: 0
+
+      a
+        text-decoration: none
+
+    address
+      +column(4, true)
+      float: right
+      margin-top: 1em
+
+      span
+        display: block
+
+        span
+          display: inline
+
+    nav
+      +clearfix
+      clear: both
+      border-top: 2px #333 solid
+      border-bottom: 2px #333 solid
+      margin: 2em 0
+
+      ul
+        +clearfix
+        padding: 0
+        margin: 0
+        list-style: none
+
+        li
+          +column(4)
+
+          &:last-child
+            +column(4, true)
+
+          &.active
+            background: #ccc
+
+          a
+            width: 100%
+            font-size: 1.75em
+            display: block
+            padding: 0.5em 0
+
+
+            text-align: center
+            text-decoration: none
+
+            &:hover
+              background: #ccc
+              color: #fff
+
+[role="main"]
+  +clearfix
+  font-size: 120%
+  margin-bottom: 2em
+
+  header
+    margin-bottom: 1em
+
+  header.jumbotron
+    height: 220px
+    background: #ccc
+
+  aside
+    +column(8)
+    float: right
+
+  aside + article
+    +column(16, true)
+
+footer
+  border-top: 1px #ccc solid
+  padding: 1em 0

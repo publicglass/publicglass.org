@@ -1,0 +1,18 @@
+%hgroup
+  %h1
+    %a.logo{href: '/'}= I18n.t('app.name')
+  %h2= I18n.t('app.tagline')
+
+%address.adr
+  %span.street-address= I18n.t('app.address.street')
+  %span
+    %span.locality= I18n.t('app.address.city')
+    ,
+    %span.locality= I18n.t('app.address.state')
+
+    %span.locality= I18n.t('app.address.zip')
+%nav
+  %ul
+    - for page in ["About", "Classes", "Memberships", "Rentals", "People", "Resources"]
+      %li{class: ("active" if /^#{page.downcase}/ === request.path)}
+        %a{href: "/#{page.downcase}"}= page
