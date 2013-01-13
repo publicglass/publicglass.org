@@ -8,9 +8,10 @@ Public Glass uses [Middleman](http://middlemanapp.com/), a Ruby-based static sit
 
 ### Requirements
 
-- Git
-- Ruby 1.9
-- Bundler
+- Installed Xcode or [osx-gcc-installer](https://github.com/kennethreitz/osx-gcc-installer)
+- [Heroku Toolbelt](https://toolbelt.heroku.com)
+- Ruby 1.9 [[Mac OS X](http://jewelrybox.unfiniti.com/)] [[Windows](http://rubyinstaller.org)]
+- [Bundler](http://gembundler.com)
 
 ### Setup
 
