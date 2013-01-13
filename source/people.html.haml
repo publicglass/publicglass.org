@@ -1,0 +1,21 @@
+%h2 Staff
+%ul
+- for person in data.people.staff
+  %li
+    %span= [person.name, person.title].compact.join(", ")
+
+%h2 Board of Directors
+%ul
+- for person in data.people.board
+  %li
+    %span= [person.name, person.title].compact.join(", ")
+
+%h2 Artists
+%ul
+- for person in data.people.teachers
+  %li= person
+
+%h2 Artists
+%ul
+- for person in data.people.artists
+  %li= person

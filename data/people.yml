@@ -1,0 +1,47 @@
+staff:
+  - name: Nate Watson
+    title: Executive Director
+    email: nate@publicglass.org
+  - name: Robin Humphreys
+    title: Operations Coordinator
+    email: robin@publicglass.org
+    phone: (415) 671-4916
+  - name: Evan Venaas
+    title: Facility Tech
+  - name: Jasmine Friedrich
+
+board:
+  - name: Elizabeth Link
+    title: President
+  - name: Justin May
+    title: Vice Presdent
+  - name: Don Campbell
+    title: Treasurer
+  - name: Rene Hendrix
+    title: Secretary
+  - name: Tahlia Priete
+
+teachers:
+  - Renee Anderson
+  - Sarah Band
+  - Herb Dang
+  - Erik Eiserling
+  - Alan Fine
+  - James Friedberg
+  - Robin Humphreys
+  - Katherine Kazlauskas
+  - Hilary McHugh
+  - Ernie Miranda
+  - Dave Patchen
+  - Jeff Rogers
+  - Evan Venaas
+  - Nathan Watson
+
+artists:
+  - Alex Abajain
+  - Erik Eiserling
+  - Jaime Guerrero
+  - Jerry Kung
+  - David Patchen
+  - Danny White
+  - Phil Vinson
