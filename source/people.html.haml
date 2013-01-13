@@ -1,21 +1,31 @@
 %h2 Staff
 %ul
 - for person in data.people.staff
-  %li
+  %li.person
     %span= [person.name, person.title].compact.join(", ")
+    - if person.email
+      %a{href: "mailto:#{person.email}"}= person.email
 
 %h2 Board of Directors
 %ul
 - for person in data.people.board
-  %li
+  %li.person
     %span= [person.name, person.title].compact.join(", ")
+    - if person.email
+      %a{href: "mailto:#{person.email}"}= person.email
 
-%h2 Artists
+%h2 Instructors
 %ul
 - for person in data.people.teachers
-  %li= person
+  %li.person
+    %span= [person.name, person.title].compact.join(", ")
+    - if person.url
+      %a{href: "#{person.url}"}= person.url
 
-%h2 Artists
+%h2 Recent Visiting Artists
 %ul
 - for person in data.people.artists
-  %li= person
+  %li.person
+    %span= [person.name, person.title].compact.join(", ")
+    - if person.url
+      %a{href: "#{person.url}"}= person.url

@@ -5,7 +5,7 @@ title: About
 
 Public Glass is San Francisco's only nonprofit, public access glass studio and school. Since 1997, Public Glass has been a home to Bay Area glass artists and a destination for those from around the world, offering a full range of rentable glassworking facilities as well as classes in blowing, casting, fusing and flameworking for students new to the medium or looking to expand their skill set.
 
-## Contact
+## Contact & Location
 
 <dl>
   <dt>Phone</dt>
@@ -14,15 +14,15 @@ Public Glass is San Francisco's only nonprofit, public access glass studio and s
   <dd>(415) 671-4917</dd>
   <dt>Email</dt>
   <dd><a href="mailto:info@publicglass.org">info@publicglass.org</a></dd>
+  <dt>Location</dt>
+  <dd><a href="https://maps.google.com/maps?ie=UTF-8&oe=utf-&q=1750+Armstrong+Ave,+San+Francisco,+CA+94124,+USA&oi=geocode_result">1750 Armstrong Avenue San Francisco, CA, 94124</a></dt>
 </dl>
 
 <img src="http://api.tiles.mapbox.com/v3/examples.map-4l7djmvo/-122.388082,37.739635,15/600x300.png" alt="Public Glass Location"/>
 
-## Location
 
-Public Glass is located at [1750 Armstrong Avenue, San Francisco, CA, 94124][1], near Third Street in the Bayview. Our main building includes the Office, Hot Shop, Cold Shop and Gallery. 1770A Armstrong Avenue, just two doors down, houses the Warm Shop and Flame Shop.
 
-To reach Public Glass by public transportation, take the Muni T-Sunnydale to Third and Williams and walk one block south to Armstrong Avenue. We also have free parking on site. Get driving directions from your location [here][1].
+To reach Public Glass by public transportation, take the Muni T-Sunnydale to Third and Williams in the Bayview and walk one block south to Armstrong Avenue. We also have free parking on site. [Get driving directions from your location.][1]
 
 ## Hours of Operation
 
@@ -71,19 +71,19 @@ To reach Public Glass by public transportation, take the Muni T-Sunnydale to Thi
 
 ## Facilities & Gallery
 
-Public Glass operates four studios for glassblowing, flameworking, kilnworking and coldworking. For details on our equipment, please see [rentals](/rentals). Gallery
+Public Glass operates four studios for glassblowing, flameworking, kilnworking and coldworking. For details on our equipment, please see [rentals](/rentals).
 
-We also have a small gallery on site that frequently features work from our artists. The gallery is available for art shows, as well as public and private events. If you are an artist interested in showing work at Public Glass, please contact [Executive Director Nate Watson][2].
+We also have a small gallery on site that frequently features work from our artists. The gallery is available for art shows, as well as public and private events. If you are an artist interested in showing work at Public Glass, [please contact us](mailto:nate@publicglass.org?subject=Gallery).
 
 ## Support Public Glass
 
 ### Volunteering
 
-“It takes a village” to operate and maintain a non-profit glass studio, and that's why Public Glass could always use a few extra hands! We're always looking for volunteers for Hot Glass Cold Beer and other events, as well as assistance with ongoing and project-based tasks that keep PG running smoothly. If you'd like to help out, we'd love to have you. Please email [Executive Director Nate Watson][2] to get involved!
+“It takes a village” to operate and maintain a non-profit glass studio, and that's why Public Glass could always use a few extra hands! We're always looking for volunteers for Hot Glass Cold Beer and other events, as well as assistance with ongoing and project-based tasks that keep PG running smoothly. If you'd like to help out, we'd love to have you. [Please contact us to get involved!](mailto:nate@publicglass.org?subject=Volunteering)
 
 ### Giving
 
-As a small, local, non-profit studio, Public Glass needs support to sustain its studio and educational programs, and you can help! Please click [here][3] to contribute with a tax deductible donation and strengthen our facility and programs. If you'd like to make other arrangements or donate toward a specific goal, please contact [Executive Director Nate Watson][2]. Public Glass is a 501(c)(3) charity; Tax ID number 94-3253918.</p>
+As a small, local, non-profit studio, Public Glass needs support to sustain its studio and educational programs, and you can help! [Please click to contribute with a tax deductible donation and strengthen our facility and programs.][2] If you'd like to make other arrangements or donate toward a specific goal, [please contact us](mailto:nate@publicglass.org?subject=Giving). Public Glass is a 501(c)(3) charity; Tax ID number 94-3253918.
 
 ### Wish List
 
@@ -137,6 +137,26 @@ Help make Public Glass even better! Our programs are equipment-intensive and all
 - Siphon-fed sandblasting cabinet
 - Water-fed angle grinder
 
+#### Office
+
+- Astroturf
+- 10/100 network hub
+- Conference table
+- DV camera
+- Desks
+- Digital still camera
+- Flatbed scanner
+- P4-class desktop PC
+- Slide-storage cabinet
+
+#### Gallery
+
+- Hampton Bay track lighting
+- Pedestals
+- Vitrines
+
+</div>
+<div markdown="1">
 #### Miscellaneous Shop
 
 - ¾″ CDX ply
@@ -167,27 +187,7 @@ Help make Public Glass even better! Our programs are equipment-intensive and all
 - Work gloves
 
 </div>
-<div markdown="1">
-#### Office
-
-- Astroturf
-- 10/100 network hub
-- Conference table
-- DV camera
-- Desks
-- Digital still camera
-- Flatbed scanner
-- P4-class desktop PC
-- Slide-storage cabinet
-
-#### Gallery
-
-- Hampton Bay track lighting
-- Pedestals
-- Vitrines
-</div>
 </section>
 
 [1]: https://maps.google.com/maps?ie=UTF-8&oe=utf-&q=1750+Armstrong+Ave,+San+Francisco,+CA+94124,+USA&oi=geocode_result
-[2]: mailto:nate@publicglass.org
-[3]: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=943253918&vlrStratCode=SRcMjxX%2bEkJ2VLPQWWdKPOJ7VYaW2CZbgzRwj52jfL3H%2bURQlB3PoVb9r6PI5J%2bw
+[2]: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=943253918&vlrStratCode=SRcMjxX%2bEkJ2VLPQWWdKPOJ7VYaW2CZbgzRwj52jfL3H%2bURQlB3PoVb9r6PI5J%2bw
