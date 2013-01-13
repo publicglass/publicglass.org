@@ -4,7 +4,7 @@ module ApplicationHelpers
   end
 
   def title
-    [I18n.t('app.name'), current_page.data['title']].compact.join(" - ") 
+    ["\u2117 " + I18n.t('app.name'), current_page.data['title']].compact.join(" - ") 
   end
 
   def excerpt(article)
