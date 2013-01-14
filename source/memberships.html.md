@@ -68,9 +68,10 @@ Public Glass patrons who can prove they are current students are granted access 
 
 Members of Public Glass are expected to represent and promote the studio and its programs, as well as adhere to all rules and policies, including those regarding safety, payments, cleanliness and respectful use of the space. Additionally, all members will be responsible for one volunteer hour per month over the course of the membership year. Participation at Hot Glass Cold Beer events or at quarterly Volunteer Clean-Up events constitute legitimate volunteer hours, and other activities may be approved by PG staff on a case-by-case basis. Failure to complete volunteer hours will result in a $500 penalty, which the member may optionally pay up front to clear all hours for the year.
 
-**[Download the 2012–2013 Membership Form.](/forms/membership 2012.pdf)** You must fill out and return the form either by fax, email or mail or in person to be approved for any membership.
+To join at any level:
 
-[To join at any level, click here](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=41), give us a call or [send us an email](mailto:operations@publicglass.org?subject=Memberships).
+1. **[Download the 2012–2013 Membership Form.](/forms/membership 2012.pdf)** You must fill out and return the form either by fax, email or mail or in person to be approved for any membership.
+2. **[Click here](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=41)**, give us a call or [send us an email](mailto:operations@publicglass.org?subject=Memberships).
 
 ## Lockers & Studio Space
 
