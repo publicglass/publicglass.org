@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Public Glass is San Francisco's only nonprofit, public access glass studio and school. Since 1997, Public Glass has been a home to Bay Area glass artists and a destination for those from around the world, offering a full range of rentable glassworking facilities as well as classes in blowing, casting, fusing and flameworking for students new to the medium or looking to expand their skill set.
+Public Glass is San Francisco's only nonprofit, public-access glass studio and school. Since 1997, Public Glass has been a home to Bay Area glass artists and a destination for those from around the world, offering a full range of rentable glassworking facilities as well as classes in blowing, casting, fusing and flameworking for students new to the medium or looking to expand their skill set.
 
 ## Contact & Location
 

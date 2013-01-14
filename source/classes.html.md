@@ -13,6 +13,8 @@ At Public Glass we focus on hands-on learning and small class sizes, with no mor
 - **Something to snack on**, especially during long classes.
 - **An inquiring mind!** Glass is a fun, engaging hobby and you will find endless things to inspire you.
 
+[See all upcoming classes.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7)
+
 ## Glassblowing
 
 Glassblowing has been a go-to method for the creation of functional vessels for nearly 3,500 years, but the studio glass movement was born with the advancement of kiln technology in the late 1960s. Glassblowing is all about manipulating very hot, molten glass — it's stored in the furnace at about 2100° and kept between 1600° and 1900°F while working. The liquid glass is "gathered" onto one end of a punty or blowpipe, and then inflated by blowing into the other end of the blowpipe or shaped with wood and metal tools. Though glassblowing can be a challenging and demanding process, the creative possibilities of form and color are endless and highly rewarding. Public Glass offers classes in the core skills of glassblowing, as well as specialty classes in sculpting, interdisciplinary techniques, advanced shaping focuses and more. Ages 14+.
