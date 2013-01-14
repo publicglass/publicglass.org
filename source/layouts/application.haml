@@ -13,7 +13,7 @@
     %meta{property: "og:image",  content: uri("/images/public-glass.svg")}
     %meta{property: "og:site_name", content: I18n.t('app.name')}
 
-  %body{class: ("page" unless root?)}
+  %body{class: (request.path.split(/\//).first unless root?)}
     %div{role: "container"}
       %header
         = partial 'header'
