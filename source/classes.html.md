@@ -5,15 +5,14 @@ title: Classes
 
 At Public Glass we focus on hands-on learning and small class sizes, with no more than three or four students per instructor. Anyone can jump right into any of our studios with an introductory class. Read on to learn about each type of glassworking and how Public Glass can get you involved!
 
-What should I bring to class?
-
-- Comfortable clothes. We recommend cotton or other natural fibers rather than synthetics and long sleeves to protect your arms.
-- Closed toe shoes. No sandals or other open toed shoes are permitted; you must wear work boots or sneakers.
-- A water bottle or something to drink, especially in the Hot Shop.
-- Something to snack on, especially during long classes.
-- An inquiring mind! Glass is a fun, engaging hobby and you will find endless things to inspire you.
 
 [See all upcoming classes.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7)
+
+---
+
+<section id="classes" markdown="1">
+
+<figure id="glassblowing"></figure>
 
 ## Glassblowing
 
@@ -21,11 +20,17 @@ Glassblowing has been a go-to method for the creation of functional vessels for 
 
 [See all upcoming classes in Glassblowing.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sVT=23&sView=day)
 
+
+<figure id="flameworking"></figure>
+
 ## Flameworking
 
 Flameworking, also known as lampworking or torchworking, is endless in its creative possibility. Similar to glassblowing, but on a smaller scale, flameworking is not as physically demanding, although it does require a degree of eye-hand coordination and concentration. The flameworking set up includes a torch, glass rods and metals tools, such as small molds and tweezers. When they're done, all pieces are cooled slowly to remove the stress. Public Glass offers classes in the core skills of flameworking, as well as specialty classes in vessels, marbles, beads and jewelry, animals and more. Ages 12+.
 
 [See all upcoming classes in Flameworking.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sVT=26&sView=day)
+
+
+<figure id="fusing-and-slumping"></figure>
 
 ## Fusing & Slumping
 
@@ -33,21 +38,43 @@ Fusing & slumping is one way of creating kilnformed or warm glass. At its most s
 
 [See all upcoming classes in Fusing & Slumping.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sVT=24&sView=day)
 
+
+<figure id="coldworking"></figure>
+
 ## Coldworking
 
 Coldworking helps make glass from any other studio shine. By cutting, grinding and polishing with equipment cooled with plenty of water, glass pieces can be elevated to their fullest potential, or salvaged if something went wrong somewhere else! Public glass offers classes in the core skills of coldworking, as well as specialty classes in sandblasting, etching and more. Ages 14+.
 
 [See all upcoming classes in Coldworking.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sVT=25&sView=day)
 
+
+<figure id="kilncasting"></figure>
+
 ## Kilncasting
 
 Kilncasting is an easy way to manipulate solid glass into any almost any shape, usually working with plaster molds. After selecting a mold or making one from scratch by "investing" another object as a model, the mold can be filled with small bits of glass and placed into the kiln. At a very high temperature, usually about 1500° to 1800°F, the glass will become molten and fill the mold. Public Glass offers classes in the core skills of kilncasting, as well as specialty classes in pâte de verre, lost wax casting and more. Ages 14+.
+
+_Check back for upcoming class schedules._
+
+<figure id="hotcasting"></figure>
 
 ## Hotcasting
 
 Hotcasting is to kilncasting as glassblowing is to fusing & slumping — hotter, faster and more hands-on! In hotcasting, a mold is prepared by making a tight impression with an object in a container of specially prepared sand. Color can be added by lining the surface with colored glass powders and then molten glass is ladled straight into the mold at 2200°F and set into a kiln to cool. Public Glass offers classes in the core skills of hotcasting, as well as specialty classes in production, interdisclipinary techniques and more. Ages 14+.
 
+_Check back for upcoming class schedules._
+
+</section>
+
 ---
+
+## What Should I Bring to Class?
+
+- **Comfortable clothes.** We recommend cotton or other natural fibers rather than synthetics and long sleeves to protect your arms.
+- **Closed toe shoes.** No sandals or other open toed shoes are permitted; you must wear work boots or sneakers.
+- **A water bottle** or something to drink, especially in the Hot Shop.
+- **Something to snack on**, especially during long classes.
+- **An inquiring mind!** Glass is a fun, engaging hobby and you will find endless things to inspire you.
 
 ## Gift Certificates
 
