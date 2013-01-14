@@ -59,4 +59,4 @@ Public Glass is proud to present the opportunity for large groups to experience 
 
 We generally accomodate groups of 6-10 people. Please call for larger parties. In the 3-hour session, you will learn to gather glass from the furnace and manipulate this molten medium into an object, such as a flower or paperweight. In a more extensive 6-hour session, you will have the opportunity to understand what is involved in blowing glass; participants will be given the chance to create their own drinking glass or small vessel. $85 per person for a 3 Hour Session; $195 per person for a 6 Hour Session.
 
-Please call to set up your session!
+Please call or [email us to set up your session](mailto:operations@publicglass.org&subject=Experience%20Glass)!
