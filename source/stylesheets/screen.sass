@@ -10,6 +10,7 @@ $text-color: #222
 $border-color: $text-color
 
 @import "./pages/about"
+@import "./pages/classes"
 @import "./pages/membership"
 @import "./pages/people"
 
@@ -22,10 +23,11 @@ html body
     text-decoration: underline
 
     &:visited
-      color: lighten($public-glass-orange, 20%)
+      color: lighten($public-glass-orange, 10%)
 
     &:hover
       color: $text-color
+    
     &:active
       color: $public-glass-orange
       text-decoration: none
