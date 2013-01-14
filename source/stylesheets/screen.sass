@@ -9,6 +9,7 @@ $public-glass-orange: #ec7a08
 $text-color: #222
 $border-color: $text-color
 
+@import "./pages/index"
 @import "./pages/about"
 @import "./pages/classes"
 @import "./pages/membership"
@@ -190,6 +191,30 @@ html body
     border-bottom: 1px $border-color solid
 
 footer
-  font-size: 1.5em
+
+  font-size: 1em
   border-top: 2px $border-color solid
   padding: 2em 0
+
+  div
+    +column(8)
+
+    &:nth-of-type(3n)
+      +column(8, true)
+
+  h2
+    font-size: 1.5em
+
+  span
+    display: block
+
+    span
+      display: inline
+
+  .copyright
+    clear: both
+    display: block
+    padding-top: 2em
+
+  .locality:after
+    content: ","
