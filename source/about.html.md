@@ -22,7 +22,7 @@ Public Glass is San Francisco's only nonprofit, public-access glass studio and s
 <p>To reach Public Glass by public transportation, take the <strong>Muni T-Sunnydale</strong> to <strong>3rd &amp; Williams</strong> in the Bayview and walk one block south to Armstrong Avenue. We also have free parking on site. <a href="https://maps.google.com/maps?ie=UTF-8&oe=utf-&q=1750+Armstrong+Ave,+San+Francisco,+CA+94124,+USA&oi=geocode_result">Get driving directions from your location.</a></p>
 </div>
 
-<img id="map" src="http://api.tiles.mapbox.com/v3/examples.map-4l7djmvo/pin-m-star+ff6633(-122.388082,37.739635)/-122.388082,37.739635,15/600x300.png" alt="Public Glass Location"/>
+<img id="map" src="http://api.tiles.mapbox.com/v3/examples.map-4l7djmvo/pin-m-star+ff6633(-122.395395,37.728147)/-122.395395,37.728147,15/600x300.png" alt="Public Glass Location"/>
 
 ## Hours of Operation
 
