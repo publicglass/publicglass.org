@@ -7,6 +7,7 @@ Public Glass is San Francisco's only nonprofit, public access glass studio and s
 
 ## Contact & Location
 
+<div id="contact">
 <dl>
   <dt>Phone</dt>
   <dd>(415) 671-4916</dd>
@@ -15,18 +16,17 @@ Public Glass is San Francisco's only nonprofit, public access glass studio and s
   <dt>Email</dt>
   <dd><a href="mailto:info@publicglass.org">info@publicglass.org</a></dd>
   <dt>Location</dt>
-  <dd><a href="https://maps.google.com/maps?ie=UTF-8&oe=utf-&q=1750+Armstrong+Ave,+San+Francisco,+CA+94124,+USA&oi=geocode_result">1750 Armstrong Avenue San Francisco, CA, 94124</a></dt>
+  <dd><a href="https://maps.google.com/maps?ie=UTF-8&oe=utf-&q=1750+Armstrong+Ave,+San+Francisco,+CA+94124,+USA&oi=geocode_result">1750 Armstrong Avenue<br/>San Francisco, CA, 94124</a></dt>
 </dl>
 
-<img src="http://api.tiles.mapbox.com/v3/examples.map-4l7djmvo/-122.388082,37.739635,15/600x300.png" alt="Public Glass Location"/>
+<p>To reach Public Glass by public transportation, take the <strong>Muni T-Sunnydale</strong> to <strong>3rd &amp; Williams</strong> in the Bayview and walk one block south to Armstrong Avenue. We also have free parking on site. <a href="https://maps.google.com/maps?ie=UTF-8&oe=utf-&q=1750+Armstrong+Ave,+San+Francisco,+CA+94124,+USA&oi=geocode_result">Get driving directions from your location.</a></p>
+</div>
 
-
-
-To reach Public Glass by public transportation, take the Muni T-Sunnydale to Third and Williams in the Bayview and walk one block south to Armstrong Avenue. We also have free parking on site. [Get driving directions from your location.][1]
+<img id="map" src="http://api.tiles.mapbox.com/v3/examples.map-4l7djmvo/pin-m-star+ff6633(-122.388082,37.739635)/-122.388082,37.739635,15/600x300.png" alt="Public Glass Location"/>
 
 ## Hours of Operation
 
-<table>
+<table id="hours-of-operation">
   <thead>
     <tr>
       <th></th>
@@ -36,38 +36,40 @@ To reach Public Glass by public transportation, take the Muni T-Sunnydale to Thi
   </thead>
   <tbody>
     <tr>
-      <td><acronym title="Monday">MON</acronym></td>
+      <th>Monday</th>
       <td colspan="2">Closed</td>
     </tr>
     <tr>
-      <td><acronym title="Tuesday">TUE</acronym></td>
+      <th>Tuesday</th>
       <td>9am-6pm</td>
       <td>9am-9pm</td>
     </tr>
     <tr>
-      <td><acronym title="Wednesday">WED</acronym></td>
+      <th>Wednesday</th>
       <td>9am-6pm</td>
       <td>9am-9pm</td>
     </tr>
     <tr>
-      <td><acronym title="Thursday">THU</acronym></td>
+      <th>Thursday</th>
       <td>9am-5pm</td>
       <td>12pm-9pm</td>
     </tr>
     <tr>
-      <td><acronym title="Friday">FRI</acronym></td>
+      <th>Friday</th>
       <td>9am-6pm</td>
       <td>9am-9pm</td>
     </tr>
     <tr>
-      <td><acronym title="Saturday">SAT</acronym> &amp; <acronym title="Sunday">SUN</acronym></td>
+      <th>Saturday &amp; Sunday</th>
       <td>By Appointment</td>
       <td>9am-9pm</td>
     </tr>
   </tbody>
+  <caption>
+    Office and shop hours are subject to change based on appointments, rentals and off-site activities.
+    <br/>
+    Please call or email in advance of your visit to ensure that the studio is open.</caption>
 </table>
-
-> *Office and shop hours are subject to change based on appointments, rentals and off-site activities. Please call or email in advance of your visit to ensure that the studio is open.
 
 ## Facilities & Gallery
 
@@ -189,5 +191,4 @@ Help make Public Glass even better! Our programs are equipment-intensive and all
 </div>
 </section>
 
-[1]: https://maps.google.com/maps?ie=UTF-8&oe=utf-&q=1750+Armstrong+Ave,+San+Francisco,+CA+94124,+USA&oi=geocode_result
 [2]: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=943253918&vlrStratCode=SRcMjxX%2bEkJ2VLPQWWdKPOJ7VYaW2CZbgzRwj52jfL3H%2bURQlB3PoVb9r6PI5J%2bw

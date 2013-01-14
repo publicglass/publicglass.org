@@ -1,6 +1,36 @@
+#contact
+  +column(10)
+  +append(1)
+
+  dl
+    +clearfix
+    margin-bottom: 1em
+
+#contact + p
+  +clearfix
+#map
+  +column(13, true)
+  display: block
+
+#contact, #map
+  margin-bottom: 1em
+
+table#hours-of-operation
+  tbody
+    th, td
+      border-bottom: 1px lighten($border-color, 80%) solid
+
+    td
+      padding-left: 4em
+
+    td[colspan]
+      padding: 0
+      font-style: italic
+
 #wishlist
   h4
-    border-bottom: 1px #ccc solid
+    border-bottom: 1px $border-color solid
+    padding-bottom: 0.5em
 
   div
     +column(8)

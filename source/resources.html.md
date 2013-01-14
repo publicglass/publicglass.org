@@ -7,15 +7,12 @@ title: Resources
 
 - [Beginning Glassblowing by Edward T. Schmidt](http://www.amazon.com/Beginning-Glassblowing-Edward-T-Schmid/dp/0963872826)
 - [Advanced Glassblowing Techniques by Edward T. Schmidt](http://www.amazon.com/Advanced-Glassworking-Techniques-Enlightened-Manuscript/dp/0963872818)
-
 - [Kiln Firing Glass: Glass Fusing, Book I by Boyce Lundstrom](http://www.amazon.com/Kiln-Firing-Glass-Fusing-Book/dp/0961228237)
 - [Advanced Fusing Techniques: Glass Fusing, Book II by Boyce Lundstrom](http://www.amazon.com/Advanced-Fusing-Techniques-Glass-Book/dp/0961228210)
 - [Glass Casting and Moldmaking: Glass Fusing, Book III by Boyce Lundstrom](http://www.amazon.com/Glass-Casting-Moldmaking-Fusing-Book/dp/0961228229)
-
 - [Contemporary Lampworking: A Practical Guide to Shaping Glass in the Flame, Vol. I by Bandhu Scott Dunham](http://www.amazon.com/Contemporary-Lampworking-Practical-Guide-Shaping/dp/0965897214)
 - [Contemporary Lampworking: A Practical Guide to Shaping Glass in the Flame, Vol. II by Bandhu Scott Dunham](http://www.amazon.com/Contemporary-Lampworking-Practical-Guide-Shaping/dp/0965897214)
 - [Contemporary Lampworking: A Practical Guide to Shaping Glass in the Flame, Vol. III by Bandhu Scott Dunham](http://www.amazon.com/Contemporary-Lampworking-III-Bandhu-Dunham/dp/0965897230)
-
 - [The Joy of Coldworking by Johnathon Schmuck](http://www.amazon.com/Joy-Coldworking-Johnathon-Schmuck/dp/0970093306)
 
 ## Eyewear

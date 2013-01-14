@@ -5,13 +5,13 @@ title: Classes
 
 At Public Glass we focus on hands-on learning and small class sizes, with no more than three or four students per instructor. Anyone can jump right into any of our studios with an introductory class. Read on to learn about each type of glassworking and how Public Glass can get you involved!
 
-What should I bring to class?
+### What Should I Bring to Class?
 
-- Comfortable clothes. We recommend cotton or other natural fibers rather than synthetics and long sleeves to protect your arms.
-- Closed toe shoes. No sandals or other open toed shoes are permitted; you must wear work boots or sneakers.
-- A water bottle or something to drink, especially in the Hot Shop.
-- Something to snack on, especially during long classes.
-- An inquiring mind! Glass is a fun, engaging hobby and you will find endless things to inspire you.
+- **Comfortable clothes.** We recommend cotton or other natural fibers rather than synthetics and long sleeves to protect your arms.
+- **Closed toe shoes.** No sandals or other open toed shoes are permitted; you must wear work boots or sneakers.
+- **A water bottle** or something to drink, especially in the Hot Shop.
+- **Something to snack on**, especially during long classes.
+- **An inquiring mind!** Glass is a fun, engaging hobby and you will find endless things to inspire you.
 
 ## Glassblowing
 
