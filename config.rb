@@ -28,7 +28,7 @@ activate :blog do |blog|
 end
 
 configure :build do
-  use Rack::GoogleAnalytics, tracker: ENV['GOOGLE_ANALYTICS_TRACKER_ID'] if ENV['GOOGLE_ANALYTICS_TRACKER_ID']
+  use Rack::GoogleAnalytics, tracker: "UA-37653325-1"
 
   activate :asset_hash, :exts => ['.js', '.css', '.png', '.gif', '.jpg', '.woff']
   activate :minify_css
