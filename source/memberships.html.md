@@ -3,7 +3,7 @@ layout: page
 title: Memberships
 ---
 
-Community is an important feature of a place like Public Glass, and that’s why we’re graciously asking you to support us by becoming a member. As a member, you’ll enjoy the discounts and benefits outlined below, plus you'll get the great satisfaction of helping Public Glass remain strong as the Bay Area’s center for education and creation in glass, for everyone. Our membership dues go straight to maintaining our facilities and funding capital improvements that benefit the entire community.
+Public Glass is proud to have a strong community of members, and we encourage you to join us! As a member, you’ll enjoy the discounts and benefits outlined below, plus you'll get the great satisfaction of helping Public Glass remain strong as the Bay Area’s center for education and creation in glass, for everyone. Our membership dues go straight to maintaining our facilities and funding capital improvements that benefit the entire community.
 
 All membership levels include a 10% discount on class registrations, options for monthly billing and access to Public Glass facilities during the hours of 8:00am - 10:00pm. Each membership tier additionally grants a discount on rental rates.
 
@@ -64,43 +64,11 @@ All membership levels include a 10% discount on class registrations, options for
 	</tbody>
 </table>
 
-Public Glass patrons who can prove they are current students are granted access to a special membership tier just for students. This level includes a 10% discount on our cold shop orientation, Introduction to Coldworking and Safety, free use of the cold shop for work made at Public Glass and flat discounts of $25 toward any one-day workshop and $50 toward longer classes.
+Students (with valid, current ID) are granted access to a special membership tier. This level includes a 10% discount on our Introduction to Coldworking and Safety workshop, free use of the cold shop for work made at Public Glass and flat discounts of $25 toward any one-day workshop and $50 toward longer classes.
 
-Members of Public Glass are expected to represent and promote the studio and its programs, as well as adhere to all rules and policies, including those regarding safety, payments, cleanliness and respectful use of the space. Additionally, all members will be responsible for one volunteer hour per month over the course of the membership year. Participation at Hot Glass Cold Beer events or at quarterly Volunteer Clean-Up events constitute legitimate volunteer hours, and other activities may be approved by PG staff on a case-by-case basis. Failure to complete volunteer hours will result in a $500 penalty, which the member may optionally pay up front to clear all hours for the year.
+Members of Public Glass are expected to represent and promote the studio and its programs, as well as adhere to all rules and policies, including those regarding safety, payments, cleanliness and respectful use of the space. Please refer to our current membership form for all the details.
 
 To join at any level:
 
 1. **[Download the 2012–2013 Membership Form.](/forms/membership 2012.pdf)** You must fill out and return the form either by fax, email or mail or in person to be approved for any membership.
 2. **[Click here](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=41)**, give us a call or [send us an email](mailto:operations@publicglass.org?subject=Memberships).
-
-## Lockers & Studio Space
-
-Any member can additionally rent one or more lockers on the premises, at the cost of $130 each per year. To sign up for a locker, please call or [email us](mailto:operations@publicglass.org?subject=Lockers). Then just come in with the lock of your choice to claim it!
-
-Dedicated studio space is also available for limited-term projects; [please contact us](mailto:operations@publicglass.org?subject=Studio%20Space) regarding your intent to determine availability and discuss rates.
-
-## Warm & Flame Shop Packages
-
-For Public Glass members that visit the warm shop and the flame shop a little more often, we also offer frequent renter packages which include shelf space and secure office storage, 24 hour access to a common work area and a discounted rate for kiln firings. To enroll in one of these renter packages, please call or [email us](mailto:operations@publicglass.org?subject=Warm%20and%20Flame%20Packages).
-
-<table>
-	<thead>
-		<tr>
-			<th></th>
-			<th>Half Package</th>
-			<th>Full Package</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<th>Package Cost</th>
-			<td>$131.25 / month</td>
-			<td>$262.50 / month</td>
-		</tr>
-		<tr>
-			<th>Kiln Firings</th>
-			<td>2 / month</td>
-			<td>4 / month</td>
-		</tr>
-	</tbody>
-</table>
