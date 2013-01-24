@@ -49,9 +49,9 @@ All membership levels include a 10% discount on class registrations, options for
 		</tr>
 		<tr class="warm-shop">
 			<th>Warm Shop Rates</th>
-			<td>$60 / day</td>
-			<td>$60 / day</td>
-			<td>$60 / day</td>
+			<td>$40 / day</td>
+			<td>$40 / day</td>
+			<td>$40 / day</td>
 			<td>$70 / day</td>
 		</tr>
 		<tr class="cold-shop">
