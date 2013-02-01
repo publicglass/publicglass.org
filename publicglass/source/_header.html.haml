@@ -1,0 +1,10 @@
+%a.logo{href: '/'}
+  %hgroup
+    %h1= I18n.t('app.name')
+    %h2= I18n.t('app.tagline')
+
+%nav
+  %ul
+    - for page in ["About", "Classes", "Memberships", "Rentals", "People", "Resources"]
+      %li{class: ("active" if /^#{page.downcase}/ === request.path)}
+        %a{href: "/#{page.downcase}"}= page

@@ -1,0 +1,12 @@
+en:
+  app:
+    url: "http://publicglass.org/"
+    name: "Public Glass"
+    tagline: "San Francisco's Center for Glass Art"
+    address:
+      street: 1750 Armstrong Ave.
+      city: San Francisco
+      state: CA
+      zip: 94124
+    phone: (415) 671-4916 
+    email: info@publicglass.org 

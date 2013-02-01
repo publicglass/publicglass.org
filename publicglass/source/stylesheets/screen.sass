@@ -1,0 +1,220 @@
+@import "compass"
+@import "blueprint"
+
++reset-html5
++blueprint-typography
+
+$public-glass-orange: #ec7a08
+
+$text-color: #222
+$border-color: $text-color
+
+@import "./pages/index"
+@import "./pages/about"
+@import "./pages/classes"
+@import "./pages/membership"
+@import "./pages/people"
+
+html body
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+  color: $text-color
+
+  a
+    color: $public-glass-orange
+    text-decoration: underline
+
+    &:visited
+      color: lighten($public-glass-orange, 10%)
+
+    &:hover
+      color: $text-color
+    
+    &:active
+      color: $public-glass-orange
+      text-decoration: none
+
+
+[role="container"]
+  +container
+  padding: 10px
+
+  & > header
+    hgroup
+      padding-bottom: 2em
+      +column(8)
+
+      background: image-url("public-glass.svg") 40px center no-repeat
+      padding-left: +span(4) + 10px
+      background-size: 80px 80px
+
+      h1
+        font-weight: bold
+        margin-bottom: 0
+        text-transform: lowercase
+        font-variant: small-caps
+        font-size: 4em
+        margin-top: 0.5em
+        letter-spacing: 2px
+
+      h2
+        font-size: 1.25em
+        margin-top: 0
+
+    a
+      text-decoration: none
+      color: $text-color !important
+
+      &:hover
+        color: $public-glass-orange !important
+
+    address
+      +column(4, true)
+      float: right
+      margin-top: 1em
+
+      span
+        display: block
+
+        span
+          display: inline
+
+    nav
+      +clearfix
+      clear: both
+      border-top: 2px $border-color solid
+      border-bottom: 2px $border-color solid
+      margin-top: 2em
+
+      ul
+        +clearfix
+        padding: 0
+        margin: 0
+        list-style: none
+
+        li
+          +column(4)
+
+          &:last-child
+            +column(4, true)
+
+          &.active
+            background: #eee
+
+          a
+            width: 100%
+            font-size: 1.75em
+            display: block
+            padding: 0.5em 0
+
+
+            text-align: center
+            text-decoration: none
+
+            &:hover
+              color: $public-glass-orange
+
+[role="main"]
+  +clearfix
+  font-size: 120%
+  margin-bottom: 2em
+
+  header
+    margin-bottom: 1em
+
+  a
+    font-weight: 700
+
+    &:hover
+      color: #fff
+      background: $public-glass-orange
+      text-decoration: none
+
+  h1
+    font-size: 3.5em
+    margin-bottom: 0.5em
+    text-transform: lowercase
+    font-variant: small-caps
+    letter-spacing: 2px
+
+  h3
+    margin-top: 1.5em
+
+  aside
+    +column(8)
+    float: right
+
+  aside + article
+    +column(16, true)
+
+  table
+    border-spacing: 0
+    border-collapse: collapse
+    outline: 1px $border-color solid
+
+    thead
+      th
+        background: transparent
+        border-bottom: 2px $border-color solid
+
+    tbody
+      th
+        text-align: left
+
+      td[colspan]
+        text-align: center
+
+    caption
+      caption-side: bottom
+      background: transparent
+      text-align: left
+      padding: 1em 0
+      font-style: italic
+      color: lighten($text-color, 20%)
+
+  dl
+    dt, dd
+      margin-bottom: 0.5em
+
+    dt
+      +column(3)
+      clear: left
+
+    dd
+      +column(6)
+      clear: right
+
+  abbr
+    border: none
+
+  hr
+    border: none
+    border-bottom: 1px $border-color solid
+
+footer
+
+  font-size: 1em
+  border-top: 2px $border-color solid
+  padding: 2em 0
+
+  div
+    +column(8)
+
+    &:nth-of-type(3n)
+      +column(8, true)
+
+  h2
+    font-size: 1.5em
+
+  span
+    display: block
+
+    span
+      display: inline
+
+  .copyright
+    clear: both
+    display: block
+    padding-top: 2em
+
+  .locality:after
+    content: ","

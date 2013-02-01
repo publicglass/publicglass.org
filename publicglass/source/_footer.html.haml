@@ -1,0 +1,34 @@
+.quick-links
+  :markdown
+    ## Quick Links
+
+    - [Support Public Glass](/about#toc_3)
+    - [All Classes](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7)
+    - [Book Rentals](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-9)
+    - [Gift Certificates](/classes#toc_7)
+    - [Team Building](/classes#toc_8)
+
+.social-media
+  :markdown
+    ## Stay Connected
+
+    - [Twitter](http://www.twitter.com/publicglass)
+    - [Facebook](http://www.facebook.com/publicglass)
+    - [Yelp](http://www.yelp.com/biz/public-glass-san-francisco)
+    - [Newsletter](http://visitor.r20.constantcontact.com/d.jsp?llr=jpfjsicab&p=oi&m=1101946721769)
+
+.contact
+  %h2 Contact Information
+  .vcard
+    %strong.name= I18n.t('app.name')
+    %address.adr
+      %span.street-address= I18n.t('app.address.street')
+      %span
+        %span.locality= I18n.t('app.address.city')
+        %span.region= I18n.t('app.address.state')
+        %span.postal-code= I18n.t('app.address.zip')
+    %span.email
+      %a{href:"mailto:#{I18n.t('app.email')}"}= I18n.t('app.email')
+    %span.tel= I18n.t('app.phone')
+
+%p.copyright= "Copyright © #{Time.now.year} Public Glass."

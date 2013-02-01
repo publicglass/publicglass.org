@@ -1,0 +1,72 @@
+staff:
+  - name: Nate Watson
+    title: Executive Director
+    email: nate@publicglass.org
+  - name: Robin Humphreys
+    title: Operations Coordinator
+    email: robin@publicglass.org
+    phone: (415) 671-4916
+  - name: Evan Venaas
+    title: Facility Tech
+    email: evan@publicglass.org
+  - name: Jasmine Friedrich
+    email: jasmine@publicglass.org
+
+board:
+  - name: Elizabeth Link
+    title: President
+    email: missinglinkster@yahoo.com
+  - name: Justin May
+    title: Vice Presdent
+  - name: Don Campbell
+    title: Treasurer
+  - name: Rene Hendrix
+    title: Secretary
+  - name: Tahlia Priete
+
+teachers:
+  - name: Renee Anderson
+    url: http://reneeandersonglass.tumblr.com
+  - name: Sarah Band
+  - name: Herb Dang
+    url: http://www.playwithfire.biz
+  - name: Erik Eiserling
+    url: http://www.erikeiserling.com
+  - name: Alan Fine
+  - name: James Friedberg
+    url: http://www.jamesfriedberg.com
+  - name: Robin Humphreys
+    url: http://copperhead723.etsy.com
+  - name: Katherine Kazlauskas
+  - name: Hilary McHugh
+  - name: Ernie Miranda
+  - name: Dave Patchen
+    url: http://www.davidpatchen.com
+  - name: Jeff Rogers
+  - name: Evan Venaas
+  - name: Nathan Watson
+
+artists:
+  - name: Alex Abajain
+  - name: Erik Eiserling
+    url: http://www.erikeiserling.com
+  - name: David Ensign
+    url: http://www.davidensign.com
+  - name: Jaime Guerrero
+    url: http://www.guerreroglass.com
+  - name: Lynn Holman
+    url: http://www.360fusionglass.com
+  - name: Jerry Kung
+  - name: Richardo Norte
+    url: http://www.sculpturesbynorte.com
+  - name: David Patchen
+    url: http://www.davidpatchen.com
+  - name: Steve Roseman
+    url: http://www.steverosemanglass.com
+    name: Marty Shaw
+  - name: Kazuki Takizawa
+    url: http://www.kazukitakizawa.com
+  - name: Danny White
+    url: http://www.iamdannywhite.com
+  - name: Phil Vinson
+    url: http://www.madeinchinastudio.com
