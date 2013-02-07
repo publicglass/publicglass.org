@@ -11,6 +11,9 @@ staff:
     email: evan@publicglass.org
   - name: Jasmine Friedrich
     email: jasmine@publicglass.org
+  - name: Jono Cowgill
+    title: Youth Programing Coordinator
+    email: jono@publicglass.org
 
 board:
   - name: Elizabeth Link
@@ -66,7 +69,7 @@ artists:
   - name: Marty Shaw
   - name: Kazuki Takizawa
     url: http://www.kazukitakizawa.com
-  - name: Danny White
-    url: http://www.iamdannywhite.com
   - name: Phil Vinson
     url: http://www.madeinchinastudio.com
+  - name: Danny White
+    url: http://www.iamdannywhite.com
