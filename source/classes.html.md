@@ -80,10 +80,25 @@ _Check back for upcoming class schedules._
 
 So they want to blow glass? Public Glass offers custom gift certificates for any studio at any value, from one-day workshops to test the waters, multiweek courses for dedicated students or a fund to help renters finish their personal projects. [Give the gift of do-it-yourself glass art.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=42)
 
-## Experience Glass Team Building Events
+## *Experience Glass* Team Building
 
-Public Glass is proud to present the opportunity for large groups to experience the enticing medium of hot furnace glass. From team building sessions to just playing with hot molten glass, we offer a tailored experience for your group to bond and create their own art glass piece. Events at Public Glass are a lot of fun and very memorable, and Experience Glass is a great opportunity to expose yourself and your colleagues to this unique art form, while focusing on teamwork, problem solving and creativity.
+Public Glass is proud to present the opportunity for large groups to experience the enticing medium of hot furnace glass. From team building sessions to just playing with hot molten glass, we offer a tailored experience for your group to bond and create their own art glass piece. Events at Public Glass are a lot of fun and very memorable, and *Experience Glass* is a great opportunity to expose yourself and your colleagues to this unique art form, while focusing on teamwork, problem solving and creativity.
 
 We generally accomodate groups of 6-10 people. Please call for larger parties. In the 3-hour session, you will learn to gather glass from the furnace and manipulate this molten medium into an object, such as a flower or paperweight. In a more extensive 6-hour session, you will have the opportunity to understand what is involved in blowing glass; participants will be given the chance to create their own drinking glass or small vessel. $85 per person for a 3 Hour Session; $195 per person for a 6 Hour Session.
 
 Please call or [email us to set up your session](mailto:operations@publicglass.org&subject=Experience%20Glass)!
+
+## *Light a Spark* Youth Programming
+
+Glassblowing isn't just a creative medium, it's a process that teaches life lessons and instills confidence through collaboration, sustained focus and constant improvement toward mastery. Here at Public Glass we believe that everyone should have a chance to experience this ancient and beautiful art form, and that’s why we’re launching San Francisco’s first glassblowing education program for at-risk youth, *Light a Spark*.
+
+Our current plans include development of a five-week pilot program, attached to our existing after-school program, that incorporates more than just glassblowing. The month-long course develops many skills and positive traits in its participants, including:
+
+- Teamwork
+- Communication
+- Trust
+- Resiliency
+- Positive Attitude
+- Confidence
+
+We look forward to partnering with the numerous youth organizations in the Bayview to bring the experience of glass to the under-served youth of this community. If you would like to contribute toward bringing a unique creative experience to a young person who would not have the opportunity otherwise, please give what you can as a tax deductible donation. For more information or to get involved, please [contact our Youth Pogramming Coordinator, Jono Cowgill](mailto:jono@publicglass.org&subject=Light%20a%20Spark).
