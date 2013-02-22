@@ -5,8 +5,7 @@ title: Classes
 
 At Public Glass we focus on hands-on learning and small class sizes, with no more than three or four students per instructor. Anyone can jump right into any of our studios with an introductory class. Read on to learn about each type of glassworking and how Public Glass can get you involved!
 
-
-[See all upcoming classes.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7)
+Online class registration closes 3 days before the first session. For later registration, please call. [See all upcoming classes.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7)
 
 ---
 
@@ -34,7 +33,7 @@ Flameworking, also known as lampworking or torchworking, is endless in its creat
 
 ## Fusing & Slumping
 
-Fusing & slumping is one way of creating kilnformed or warm glass. At its most simple, the process involves cutting and layering pieces of glass at room temperature, and heating them over time in a kiln until they soften, fuse and bend into simple molds. The process lends itself to functional pieces, such as dishes, jewelry, frames, tiles and plaques, as well as wall art and sculptural items. Fusing & slumping is perfect for more the meticulous and patient, and allows for very complex and colorful work without the heat of the hot or flame shops. Public Glass offers classes in the core skills of fusing & slumping, as well as specialty classes in mosaics, deep imagery and more. Ages 12+.
+Fusing & slumping is one way of creating kilnformed or warm glass. At its most simple, the process involves cutting and layering pieces of glass at room temperature, and heating them over time in a kiln until they soften, fuse and bend into simple molds. The process lends itself to functional pieces, such as dishes, jewelry, frames, tiles and plaques, as well as wall art and sculptural items. Fusing & slumping is perfect for more the meticulous and patient, and allows for very complex and colorful work without the heat of the hot or flame shops. Public Glass offers classes in the core skills of fusing & slumping, as well as specialty classes in mosaics, deep imagery and more. Ages 10+.
 
 [See all upcoming classes in Fusing & Slumping.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sVT=24&sView=day)
 
@@ -70,21 +69,23 @@ _Check back for upcoming class schedules._
 
 ## What Should I Bring to Class?
 
-- **Comfortable clothes.** We recommend cotton or other natural fibers rather than synthetics and long sleeves to protect your arms.
+- **Comfortable clothes.** For glassblowing, we recommend cotton or other natural fibers rather than synthetics and long sleeves to protect your arms. For other classes, please wear several cotton layers, as the studio can be chilly.
 - **Closed toe shoes.** No sandals or other open toed shoes are permitted; you must wear work boots or sneakers.
 - **A water bottle** or something to drink, especially in the Hot Shop.
-- **Something to snack on**, especially during long classes.
+- **Something to snack on.** For six hour classes, please pack a lunch.
 - **An inquiring mind!** Glass is a fun, engaging hobby and you will find endless things to inspire you.
+
+<!--- Add the waiver here! -->
 
 ## Gift Certificates
 
 So they want to blow glass? Public Glass offers custom gift certificates for any studio at any value, from one-day workshops to test the waters, multiweek courses for dedicated students or a fund to help renters finish their personal projects. [Give the gift of do-it-yourself glass art.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=42)
 
-## *Experience Glass* Team Building
+## *Experience Glass* — Perfect for Corporate Team Building & Private Parties
 
-Public Glass is proud to present the opportunity for large groups to experience the enticing medium of hot furnace glass. From team building sessions to just playing with hot molten glass, we offer a tailored experience for your group to bond and create their own art glass piece. Events at Public Glass are a lot of fun and very memorable, and *Experience Glass* is a great opportunity to expose yourself and your colleagues to this unique art form, while focusing on teamwork, problem solving and creativity.
+Public Glass hosts large groups to experience the enticing medium of hot glass in a variety of formats; from team building sessions to just playing with hot molten glass, we'll tailor an experience for your group to bond and create their own art glass pieces. *Experience Glass* is a great opportunity to expose yourself and your friends or colleagues to this unique and fun art form, while focusing on teamwork, problem solving and creativity.
 
-We generally accomodate groups of 6-10 people. Please call for larger parties. In the 3-hour session, you will learn to gather glass from the furnace and manipulate this molten medium into an object, such as a flower or paperweight. In a more extensive 6-hour session, you will have the opportunity to understand what is involved in blowing glass; participants will be given the chance to create their own drinking glass or small vessel. $85 per person for a 3 Hour Session; $195 per person for a 6 Hour Session.
+We generally accomodate groups of 6 – 15+ people. In the 3-hour session, you'll learn to gather glass from the furnace and shape it into a colorful paperweight or flower. In the more extensive 6-hour session, you'll have the opportunity to try blowing glass and make your own handblown cup! $85 per person for a 3 Hour Session; $185 per person for a 6 Hour Session.
 
 Please call or [email us to set up your session](mailto:operations@publicglass.org&subject=Experience%20Glass)!
 
@@ -92,7 +93,7 @@ Please call or [email us to set up your session](mailto:operations@publicglass.o
 
 Glassblowing isn't just a creative medium, it's a process that teaches life lessons and instills confidence through collaboration, sustained focus and constant improvement toward mastery. Here at Public Glass we believe that everyone should have a chance to experience this ancient and beautiful art form, and that’s why we’re launching San Francisco’s first glassblowing education program for at-risk youth, *Light a Spark*.
 
-Our current plans include development of a five-week pilot program, attached to our existing after-school program, that incorporates more than just glassblowing. The month-long course develops many skills and positive traits in its participants, including:
+Our current plans include development of a five-week pilot program, attached to our existing after-school program, that incorporates more than just glassblowing. This course develops many skills and positive traits in its participants, including:
 
 - Teamwork
 - Communication
