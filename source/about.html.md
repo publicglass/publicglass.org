@@ -85,7 +85,7 @@ We also have a small gallery on site that frequently features work from our arti
 
 ### Giving
 
-As a small, local, non-profit studio, Public Glass needs support to sustain its studio and educational programs, and you can help! [Please click to contribute with a tax deductible donation and strengthen our facility and programs.][2] If you'd like to make other arrangements or donate toward a specific goal, [please contact us](mailto:nate@publicglass.org?subject=Giving). Public Glass is a 501(c)(3) charity; Tax ID number 94-3253918.
+As a small, local, non-profit studio, Public Glass needs support to maintain its studio and educational programs, and you can help! [Please click to contribute with a tax deductible donation and strengthen our facility and programs.][2] If you'd like to make other arrangements or donate toward a specific goal, [please contact us](mailto:nate@publicglass.org?subject=Giving). Public Glass is a 501(c)(3) organization; Tax ID #94-3253918.
 
 ### Wish List
 
