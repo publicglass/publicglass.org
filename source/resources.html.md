@@ -43,6 +43,7 @@ It's important to have safety eyewear that's both protective and comfortable! Gl
 - [American Craft Council](http://www.craftcouncil.org/)
 - [Art Alliance for Contemporary Glass](http://contempglass.org/)
 - [ArtSpan](http://www.artspan.org/)
+- [Association of Clay and Glass Artists of California](http://www.acga.net/)
 - [Glass Alliance of Northern California](http://www.glancinfo.org/)
 - [Glass Art Society](http://www.glassart.org/)
 - [International Guild of Glass Artists](http://www.igga.org/)

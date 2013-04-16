@@ -56,12 +56,14 @@ All membership levels include a 10% discount on class registrations, options for
 		</tr>
 		<tr class="cold-shop">
 			<th>Cold Shop Rates</th>
-			<td>Free!</td>
-			<td>Free!</td>
-			<td>Free!</td>
+			<td>Free!*</td>
+			<td>Free!*</td>
+			<td>Free!*</td>
 			<td>$25 / hour</td>
 		</tr>
 	</tbody>
+	<caption>
+	*For work made at Public Glass.
 </table>
 
 Students (with valid, current ID) are granted access to a special membership tier. This level includes a 10% discount on our Introduction to Coldworking and Safety workshop, free use of the cold shop for work made at Public Glass and flat discounts of $25 toward any one-day workshop and $50 toward longer classes.
