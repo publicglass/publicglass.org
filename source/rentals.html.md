@@ -39,7 +39,7 @@ Every one of our studios can be rented for work on personal projects. Because sa
 
 > *We recommend you mark or label any of your own tools brought into the studio to avoid confusion. The cost to repair or replace any damaged equipment resulting from misuse will be billed. Special requests or projects can be accommodated, but must be discussed with the facilities manager beforehand.
 
-Use the links below to view availability and request appointments in each of our shops via the online calendar. Appointment requests must be submitted at least 48 hours in advance of the desired rental. Last-minute rental requests must be submitted by email to: [rentals@publicglass.org](mailto:rentals@publicglass.org?subject=Rental&cc=operations@publicglass.org), and CC [operations@publicglass.org](mailto:operations@publicglass.org). This email should include your full name, the date(s) and times of your requested slot(s), the resource(s) you wish to book, and any add-on services such as the garage, extra annealing space, etc. You will receive an email confirmation usually within 24 hours.
+Use the links below to view availability and request appointments in each of our shops via the online calendar. Appointment requests must be submitted at least 48 hours in advance of the desired rental. Last-minute rental requests must be submitted by email to: [rentals@publicglass.org](mailto:rentals@publicglass.org?subject=Last%20Minute%20Rental). This email should include your full name, the date(s) and times of your requested slot(s), the resource(s) you wish to book, and any add-on services such as the garage, extra annealing space, etc. You will receive an email confirmation usually within 24 hours.
 
 ## Hot Shop
 
