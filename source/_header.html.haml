@@ -5,6 +5,6 @@
 
 %nav
   %ul
-    - for page in ["About", "Classes", "Memberships", "Rentals", "People", "Resources"]
+    - for page in ["About", "Support", "Classes", "Memberships", "Rentals", "People", "Resources"]
       %li{class: ("active" if /^#{page.downcase}/ === request.path)}
         %a{href: "/#{page.downcase}"}= page
