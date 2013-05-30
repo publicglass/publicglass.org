@@ -71,9 +71,9 @@ Students (with valid, current ID) are granted access to a special membership tie
 
 Members of Public Glass are expected to represent and promote the studio and its programs, as well as adhere to all rules and policies, including those regarding safety, payments, cleanliness and respectful use of the space. Please refer to our current membership form for all the details.
 
-o join at any level, follow these two simple steps:
+To join at any level, follow these two simple steps:
 
 1. **[Download the 2013–2014 Membership Form.](/forms/membership 2013.pdf)** You must fill out and return the form either by fax, email or mail or in person to be approved for any membership.
-2. **[Purchase your membership by clicking here.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=41)
+2. **[Purchase your membership by clicking here.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=41)**
 
-If you have any questions or problems, please give us a call or [send us an email](mailto:operations@publicglass.org).
+If you have any questions or problems, please give us a call or [send us an email](mailto:operations@publicglass.org?subject=Membership).
