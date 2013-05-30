@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memberships
+title: Membership
 ---
 
 Public Glass is proud to have a strong community of members, and we encourage you to join us! As a member, you’ll enjoy the discounts and benefits outlined below, plus you'll get the great satisfaction of helping Public Glass remain strong as the Bay Area’s center for education and creation in glass, for everyone. Our membership dues go straight to maintaining our facilities and funding capital improvements that benefit the entire community.
