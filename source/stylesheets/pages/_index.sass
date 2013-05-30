@@ -2,8 +2,12 @@ header.jumbotron
   height: 315px
   background: #000 url("/images/headers/hgcb-krista-sulfaro-&-caterina-urrata.jpg") top center no-repeat
 
-.triptych
-  +column(24)
+#triptych
+  div
+    +column(8)
+
+    &:last-child
+      +column(8, true)
 
 .sidebar
   +column(8)
