@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Support Public Glass
+title: Support
 ---
- 
+
+Public Glass needs your help today!
+
 In lieu of our Spring 2013 auction, Public Glass is now reaching out to our members, community and admirers for your support through donations. Every contribution helps sustain the vast resources required to provide glass blowing, casting, fusing and flameworking to the Bay Area community.
  
 As a small arts nonprofit we strive to keep glass making available to professional artists and enthusiasts alike. We provide a diverse array of programming, including our new youth program, [Light a Spark](/classes#toc_9), where kids can create and learn team building while gaining confidence and skills through working with glass.
