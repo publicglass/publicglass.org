@@ -43,7 +43,7 @@ Use the links below to view availability and request appointments in each of our
 
 ## Hot Shop
 
-Rentals in the Hot Shop are generally booked in three hour increments, called "blow slots", and cost $160 for non-members, $140 for members, $130 for silver members and $120 for gold members per bench. Rental includes approximately 2 sq. feet of annealer floor space, access to basic tools  — jacks, shears, paddles, blocks, pipes, punties and Mapp gas torches — and use of the equipment outlined below. A whole private annealer can be booked in advance for $50 per day, and use of a Venturi propane torch or the garage can be booked for $10 each per slot. We allot 25 lbs. of glass per blow slot; an additional 1.25¢ a pound will be charged for more than 25 lbs. Hot casting is occasionally scheduled and open for rental; as this is particularly material-intensive, please contact us to determine the needs of your project.
+Rentals in the Hot Shop are generally booked in three hour increments, called "blow slots", and cost $160 for non-members, $140 for members, $130 for silver members and $120 for gold members, per bench. Rental includes approximately 2 sq. feet of annealer floor space, access to basic tools  — jacks, shears, paddles, blocks, pipes, punties and Mapp gas torches — and use of the equipment outlined below. We allot 25 lbs. of glass per blow slot; an additional 1.25¢ a pound will be charged for more than 25 lbs. Hot casting is occasionally scheduled and open for rental; as this is particularly material-intensive, please contact us to determine the needs of your project.
 
 [Book the Hot Shop.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-9)
 
@@ -51,11 +51,14 @@ Rentals in the Hot Shop are generally booked in three hour increments, called "b
 - Three benches, each with a 22″ diameter glory hole and rolling yoke
 - Pipe cooler
 - Pipe warmer
-- 36″ × 18″ × 14″ garage
 - Color pick-up oven
-- Venturi propane torches
 - 60″ × 32″ × 29″ front-loading annealer
 - Three 33″ × 20″ × 14″ top-loading annealers
+
+A whole private annealer can be booked in advance for $50 per day, and use of a Venturi propane torch or the garage can be booked for $10 each per slot. 
+
+- 36″ × 18″ × 14″ garage
+- Venturi propane torches
 
 ## Flame Shop
 
@@ -68,20 +71,59 @@ Rentals in the Flame Shop can be booked in smaller time increments, and run $15 
 
 ## Warm Shop
 
-Rentals in the Warm Shop are booked based on kiln firing time, at $70 per 24 hours for non-members and $40 for members. Shorter or longer firings can be pro-rated to the hour. Rental includes access to basic tools, small scrap glass and the equipment outlined below. The mold room can also be booked at $10 an hour for non-members and free for members, plus material costs. Renters are expected to provide their own consumable materials such as kiln wash and fiber paper.
+Rentals in the Warm Shop are booked based on kiln firing time, at $50–100 per 24 hours for non-members and $30–60 for members. Shorter or longer firings can be pro-rated to the hour. Rental includes access to basic tools, small scrap glass and the equipment outlined below. The mold room can also be booked at $10 an hour for non-members and free for members, plus material costs. Renters are expected to provide their own consumable materials such as kiln wash and fiber paper.
 
 [Book the Warm Shop.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-102)
 
 - Flat-glass cutting / layout table
 - Wet diamond edge grinder
-- Two top-fired fusing / slumping kilns run by Digitry GB4: 28″ × 28″ × 15″; 41.5″ × 23.5″ × 11″
-- Three casting kilns run by Digitry GB4: 49″ × 36″ × 25″; 41.5″ × 23.5″ × 20.5″; 23″ × 23″ × 25″
+- Two top-fired fusing / slumping kilns run by Digitry GB4
+- Three casting kilns run by Digitry GB4
 - Ventilated mold-making facility
 - Ventilated wax pots and steamer
 
+<table>
+	<thead>
+		<tr>
+			<th>Kiln</th>
+			<th>Small Fusing & Slumping</th>
+			<th>Large Fusing & Slumping</th>
+			<th>Small Casting</th>
+			<th>Small Casting</th>
+			<th>Large Casting</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Size</th>
+			<td>28″ × 28″ × 15″</td>
+			<td>41.5″ × 23.5″ × 11″</td>
+			<td>23″ × 23″ × 25″</td>
+			<td>41.5″ × 23.5″ × 20.5″</td>
+			<td>49″ × 36″ × 25″</td>
+		</tr>
+		<tr>
+			<th>Member Rate</th>
+			<td>$30 / day</td>
+			<td>$40 / day</td>
+			<td>$30 / day</td>
+			<td>$30 / day</td>
+			<td>$60 / day</td>
+		</tr>
+		<tr>
+			<th>Non-Member Rate</th>
+			<td>$50 / day</td>
+			<td>$70 / day</td>
+			<td>$50 / day</td>
+			<td>$50 / day</td>
+			<td>$100 / day</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Cold Shop
 
-Rentals in the Cold Shop are booked in $25-an-hour increments. For members, work made at Public Glass can be coldworked free of charge. Rental includes access to all coldworking equipment. In the interest of safety, renters must take our Introduction to Coldworking & Safety course.
+Rent our Cold Shop for $25 an hour. Rental includes access to all cold working equipment. Cold Shop usage is included in a [Public Glass Membership][http://publicglass.org/memberships/] for work made here in our studio. In the interest of safety, anyone who wishes to use the Cold Shop must first complete our [Introduction to Coldworking and Safety Workshop][http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sTG=16&sVT=25&sView=day].
 
 [Book the Cold Shop.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-103)
 
@@ -97,7 +139,7 @@ Rentals in the Cold Shop are booked in $25-an-hour increments. For members, work
 
 ## Lockers & Studio Space
 
-Anyone can rent one or more lockers on the premises, (as available,) at the cost of $130 each per year. To sign up for a locker, please call or [email us](mailto:operations@publicglass.org?subject=Lockers). Then just come in with the lock of your choice to claim it!
+Anyone can rent one or more lockers on the premises, (as available,) at the cost of $130 each per year. To sign up for a locker, please call or [email us](mailto:operations@publicglass.org?subject=Lockers) and we'll get you all set up.
 
 Dedicated studio space is also available for special projects or to rent on a month-to-month basis; [please contact us](mailto:operations@publicglass.org?subject=Studio%20Space) regarding your intent to determine availability and discuss rates.
 
