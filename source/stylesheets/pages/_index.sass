@@ -2,9 +2,14 @@ header.jumbotron
   height: 315px
   background: #000 url("/images/headers/hgcb-crowd.jpg") top center no-repeat
 
-header.triptych
-  height: 200px
-  background: #FFF inline-image("/images/triptych/HGCB.jpg", 'image/jpg') left no-repeat, inline-image("/images/triptych/Funds.jpg", 'image/jpg') center no-repeat, inline-image("/images/triptych/Join.jpg", 'image/jpg') right no-repeat
+.triptych1
+  +column(8)
+
+.triptych2
+  +column(8, true)
+
+.triptych3
+  +column(8, true)
 
 .sidebar
   +column(8)

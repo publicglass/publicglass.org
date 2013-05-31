@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support
+title: Giving
 ---
 
 Public Glass needs your help today!
@@ -15,7 +15,7 @@ Please help us keep glass alive in the Bay Area by making your donation today. C
  
 We greatly appreciate your support.
  
-[Donate now.][2]
+# [Donate now.][2]
 
 ## Volunteering
 
