@@ -18,17 +18,17 @@ header.jumbotron
   +column(16, true)
 
 triptych
+  +clearfix
+  clear: both
+
+  ul
     +clearfix
-    clear: both
+    padding: 0
+    margin: 0
+    list-style: none
 
-      ul
-        +clearfix
-        padding: 0
-        margin: 0
-        list-style: none
+    li
+      +column(8)
 
-        li
-          +column(8)
-
-          &:last-child
-            +column(8, true)
+      &:last-child
+        +column(8, true)
