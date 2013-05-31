@@ -7,15 +7,21 @@ Public Glass needs your help today!
 
 In lieu of our Spring 2013 auction, Public Glass is now reaching out to our members, community and admirers for your support through donations. Every contribution helps sustain the vast resources required to provide glass blowing, casting, fusing and flameworking to the Bay Area community.
  
-As a small arts nonprofit we strive to keep glass making available to professional artists and enthusiasts alike. We provide a diverse array of programming, including our new youth program, [Light a Spark](/classes#toc_9), where kids can create and learn team building while gaining confidence and skills through working with glass.
+As a small arts nonprofit we strive to keep glass making available to professional artists and enthusiasts alike. We provide a diverse array of programming, including our new youth program, *[Light a Spark](/classes#toc_9)*, where kids can create and learn team building while gaining confidence and skills through working with glass.
 
 Your generous donation will allow Public Glass to continue to promote creativity and education in glass to a larger audience and build a stronger presence within the arts community.  Public Glass is a 501(c)(3) non-profit organization.  All or a portion of your donation may be tax-deductible as prescribed by law.
  
-Please help us keep glass alive in the Bay Area by making your donation today. Click the link below, or mail a check payable to Public Glass to: 1750 Armstrong Ave., San Francisco, CA 94124.  
+Please help us keep glass alive in the Bay Area by making your donation today. Click the link below, or mail a check payable to Public Glass to: 
+
+**Public Glass**  
+1750 Armstrong Avenue  
+San Francisco, CA, 94124
  
 We greatly appreciate your support.
  
 # [Donate now.][2]
+
+---
 
 ## Volunteering
 
