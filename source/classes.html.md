@@ -81,7 +81,9 @@ _Check back for upcoming class schedules._
 
 So they want to blow glass? Public Glass offers custom gift certificates for any studio at any value, from one-day workshops to test the waters, multiweek courses for dedicated students or a fund to help renters finish their personal projects. [Give the gift of do-it-yourself glass art.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=42)
 
-## *Experience Glass* — Perfect for Corporate Team Building & Private Parties
+## *Experience Glass*
+
+### Perfect for Corporate Team Building & Private Parties
 
 Public Glass hosts large groups to experience the enticing medium of hot glass in a variety of formats; from team building sessions to just playing with hot molten glass, we'll tailor an experience for your group to bond and create their own art glass pieces. *Experience Glass* is a great opportunity to expose yourself and your friends or colleagues to this unique and fun art form, while focusing on teamwork, problem solving and creativity.
 

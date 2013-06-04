@@ -1,9 +1,6 @@
 - wrap_layout(:application) do
-  - if false
-    %aside
-      = toc(current_page)
-
   %article
-    %h1= current_page.data['title']
+    - unless root?
+      %h1= current_page.data['title']
     .content
       = yield

@@ -31,7 +31,7 @@ Every one of our studios can be rented for work on personal projects. Because sa
 		</tr>
 		<tr>
 			<th>Cold Shop</th>
-			<td>Introduction to Coldworking & Safety</td>
+			<td>Introduction to Coldworking &amp; Safety</td>
 			<td>3 Hours</td>
 		</tr>
 	</tbody>
@@ -55,7 +55,7 @@ Rentals in the Hot Shop are generally booked in three hour increments, called "b
 - 60″ × 32″ × 29″ front-loading annealer
 - Three 33″ × 20″ × 14″ top-loading annealers
 
-A whole private annealer can be booked in advance for $50 per day, and use of a Venturi propane torch or the garage can be booked for $10 each per slot. 
+A whole private annealer can be booked in advance for $50 per day, and use of a Venturi propane torch or the garage can be booked for $10 each per slot.
 
 - 36″ × 18″ × 14″ garage
 - Venturi propane torches
@@ -123,7 +123,7 @@ Rentals in the Warm Shop are booked based on kiln firing time, at $50–100 per 
 
 ## Cold Shop
 
-Rent our Cold Shop for $25 an hour. Rental includes access to all cold working equipment. Cold Shop usage is included in a [Public Glass Membership][http://publicglass.org/memberships/] for work made here in our studio. In the interest of safety, anyone who wishes to use the Cold Shop must first complete our [Introduction to Coldworking and Safety Workshop][http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sTG=16&sVT=25&sView=day].
+Rent our Cold Shop for $25 an hour. Rental includes access to all cold working equipment. Cold Shop usage is included in a [Public Glass Membership](http://publicglass.org/memberships) for work made here in our studio. In the interest of safety, anyone who wishes to use the Cold Shop must first complete our [Introduction to Coldworking and Safety Workshop](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-7&sTG=16&sVT=25&sView=day).
 
 [Book the Cold Shop.](http://clients.mindbodyonline.com/ws.asp?studioid=33642&stype=-103)
 
