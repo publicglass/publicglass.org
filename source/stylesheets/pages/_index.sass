@@ -2,14 +2,11 @@ header.jumbotron
   height: 315px
   background: #000 url("/images/headers/hgcb-crowd.jpg") top center no-repeat
 
-.triptych1
+.triptych
   +column(8)
 
-.triptych2
-  +column(8, true)
-
-.triptych3
-  +column(8, true)
+  &:nth-of-type(3)
+    +column(8, true)
 
 .sidebar
   +column(8)
