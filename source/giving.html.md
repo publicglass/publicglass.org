@@ -6,22 +6,20 @@ title: Giving
 Public Glass needs your help today!
 
 In lieu of our Spring 2013 auction, Public Glass is now reaching out to our members, community and admirers for your support through donations. Every contribution helps sustain the vast resources required to provide glass blowing, casting, fusing and flameworking to the Bay Area community.
- 
+
 As a small arts nonprofit we strive to keep glass making available to professional artists and enthusiasts alike. We provide a diverse array of programming, including our new youth program, *[Light a Spark](/classes#toc_9)*, where kids can create and learn team building while gaining confidence and skills through working with glass.
 
 Your generous donation will allow Public Glass to continue to promote creativity and education in glass to a larger audience and build a stronger presence within the arts community.  Public Glass is a 501(c)(3) non-profit organization.  All or a portion of your donation may be tax-deductible as prescribed by law.
- 
-Please help us keep glass alive in the Bay Area by making your donation today. Click the link below, or mail a check payable to Public Glass to: 
 
-**Public Glass**  
-1750 Armstrong Avenue  
-San Francisco, CA, 94124
- 
+Please help us keep glass alive in the Bay Area by making your donation today. Click the link below, or mail a check payable to Public Glass to:
+
+**Public Glass**<br/>
+1750 Armstrong Avenue<br/>
+San Francisco, CA, 94124<br/>
+
 We greatly appreciate your support.
- 
-# [Donate now.][2]
 
----
+<a id="donate" href="https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=943253918&vlrStratCode=SRcMjxX%2bEkJ2VLPQWWdKPOJ7VYaW2CZbgzRwj52jfL3H%2bURQlB3PoVb9r6PI5J%2bw">Donate Now</a>
 
 ## Volunteering
 
@@ -134,5 +132,3 @@ Help make Public Glass even better! Our programs are equipment-intensive and all
 
 </div>
 </section>
-
-[2]: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=943253918&vlrStratCode=SRcMjxX%2bEkJ2VLPQWWdKPOJ7VYaW2CZbgzRwj52jfL3H%2bURQlB3PoVb9r6PI5J%2bw
