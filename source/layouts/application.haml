@@ -2,11 +2,12 @@
 %html{lang: 'en'}
   %head
     %meta{charset: "utf-8"}
-    %title= title 
+    %title= title
     %link{rel:"alternate", type: "application/atom+xml", title: "#{I18n.t('app.name')} feed", href: "/feed.atom"}
     = stylesheet_link_tag "screen", media: "all"
 
     %meta{property: "og:title", content: title}
+    %meta{property: "og:description", content: "Public Glass is San Francisco's only nonprofit, public-access glass studio and school."}
     %meta{property: "og:url", content: I18n.t('app.url')}
     %meta{property: "og:image",  content: uri("/images/public-glass.svg")}
     %meta{property: "og:site_name", content: I18n.t('app.name')}
