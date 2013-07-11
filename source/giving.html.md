@@ -3,31 +3,24 @@ layout: page
 title: Giving
 ---
 
+## Volunteering
+
+“It takes a village” to operate and maintain a non-profit glass studio, and that's why Public Glass could always use a few extra hands! We're always looking for volunteers for Hot Glass Cold Beer and other events, as well as assistance with ongoing and project-based tasks that keep PG running smoothly. If you'd like to help out, we'd love to have you. [Please contact us to get involved!](mailto:nate@publicglass.org?subject=Volunteering)
+
+## Giving
 Public Glass needs your help today!
 
-In lieu of our Spring 2013 auction, Public Glass is now reaching out to our members, community and admirers for your support through donations. Every contribution helps sustain the vast resources required to provide glass blowing, casting, fusing and flameworking to the Bay Area community.
+As a small, local, non-profit studio, Public Glass needs support to maintain its studio and educational programs, and you can help! Every  contribution helps sustain the vast resources required to provide glass blowing, casting, fusing and flameworking to the Bay Area community, and allows Public Glass to continue to promote creativity and education in glass to a larger audience and build a stronger presence within the arts community. 
 
-As a small arts nonprofit we strive to keep glass making available to professional artists and enthusiasts alike. We provide a diverse array of programming, including our new youth program, *[Light a Spark](/classes#toc_9)*, where kids can create and learn team building while gaining confidence and skills through working with glass.
+<a id="donate" href="https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=943253918&vlrStratCode=SRcMjxX%2bEkJ2VLPQWWdKPOJ7VYaW2CZbgzRwj52jfL3H%2bURQlB3PoVb9r6PI5J%2bw">Donate Now</a>
 
-Your generous donation will allow Public Glass to continue to promote creativity and education in glass to a larger audience and build a stronger presence within the arts community.  Public Glass is a 501(c)(3) non-profit organization.  All or a portion of your donation may be tax-deductible as prescribed by law.
-
-Please help us keep glass alive in the Bay Area by making your donation today. Click the link below, or mail a check payable to Public Glass to:
+Please help us keep glass alive in the Bay Area by making your donation today. Click the button above, or mail a check payable to Public Glass to:
 
 **Public Glass**<br/>
 1750 Armstrong Avenue<br/>
 San Francisco, CA, 94124<br/>
 
-We greatly appreciate your support.
-
-<a id="donate" href="https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=943253918&vlrStratCode=SRcMjxX%2bEkJ2VLPQWWdKPOJ7VYaW2CZbgzRwj52jfL3H%2bURQlB3PoVb9r6PI5J%2bw">Donate Now</a>
-
-## Volunteering
-
-“It takes a village” to operate and maintain a non-profit glass studio, and that's why Public Glass could always use a few extra hands! We're always looking for volunteers for Hot Glass Cold Beer and other events, as well as assistance with ongoing and project-based tasks that keep PG running smoothly. If you'd like to help out, we'd love to have you. [Please contact us to get involved!](mailto:nate@publicglass.org?subject=Volunteering)
-
-<!--- ## Giving
-As a small, local, non-profit studio, Public Glass needs support to maintain its studio and educational programs, and you can help! [Please click to contribute with a tax deductible donation and strengthen our facility and programs.][2] If you'd like to make other arrangements or donate toward a specific goal, [please contact us](mailto:nate@publicglass.org?subject=Giving). Public Glass is a 501(c)(3) organization; Tax ID #94-3253918.
--->
+We greatly appreciate your support. If you'd like to make other arrangements or donate toward a specific goal, [please contact us](mailto:nate@publicglass.org?subject=Giving). Public Glass is a 501(c)(3) non-profit organization; Tax ID #94-3253918. All or a portion of your donation may be tax-deductible as prescribed by law.
 
 ## Wish List
 
