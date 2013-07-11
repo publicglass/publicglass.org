@@ -14,15 +14,14 @@ staff:
     email: jono@publicglass.org
 
 board:
-  - name: Elizabeth Link
-    title: President
   - name: Justin May
-    title: Vice Presdent
+    title: President
   - name: Don Campbell
     title: Treasurer
-  - name: Rene Hendrix
-    title: Secretary
   - name: Tahlia Priete
+    title: Secretary
+  - name: David Gorn
+  - name: Jessica Brown
 
 teachers:
   - name: Renee Anderson
