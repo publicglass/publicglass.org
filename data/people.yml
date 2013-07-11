@@ -9,9 +9,6 @@ staff:
   - name: Evan Venaas
     title: Facility Tech
     email: evan@publicglass.org
-  - name: Jasmine Friedrich
-    title: Creative & Media Consultant
-    email: jasmine@publicglass.org
   - name: Jono Cowgill
     title: Youth Programing Coordinator
     email: jono@publicglass.org
@@ -19,7 +16,6 @@ staff:
 board:
   - name: Elizabeth Link
     title: President
-    email: missinglinkster@yahoo.com
   - name: Justin May
     title: Vice Presdent
   - name: Don Campbell
@@ -32,6 +28,7 @@ teachers:
   - name: Renee Anderson
     url: http://reneeandersonglass.tumblr.com
   - name: Sarah Band
+  - name: Stephanie Close
   - name: Herb Dang
     url: http://www.playwithfire.biz
   - name: Erik Eiserling
@@ -40,10 +37,11 @@ teachers:
   - name: James Friedberg
     url: http://www.jamesfriedberg.com
   - name: Robin Humphreys
-    url: http://copperhead723.etsy.com
+    url: http://www.etsy.com/shop/RobinsGlassArts
   - name: Katherine Kazlauskas
   - name: Hilary McHugh
   - name: Ernie Miranda
+  - name: Minami Oya
   - name: Dave Patchen
     url: http://www.davidpatchen.com
   - name: Jeff Rogers
@@ -51,7 +49,10 @@ teachers:
   - name: Nathan Watson
 
 artists:
-  - name: Alex Abajain
+  - name: Alex Abajian
+    url: http://www.alexabajian.com/
+  - name: Granite Calimpong
+    url: http://www.granitecalimpong.com/
   - name: Erik Eiserling
     url: http://www.erikeiserling.com
   - name: David Ensign
@@ -61,16 +62,19 @@ artists:
   - name: Lynn Holman
     url: http://www.360fusionglass.com
   - name: Jerry Kung
-  - name: Richardo Norte
-    url: http://www.sculpturesbynorte.com
+    url: http://jlinhsienkung.com/
   - name: David Patchen
     url: http://www.davidpatchen.com
   - name: Steve Roseman
     url: http://www.steverosemanglass.com
-  - name: Marty Shaw
+  - name: Krista Sulfaro
   - name: Kazuki Takizawa
     url: http://www.kazukitakizawa.com
+  - name: Caterina Urrata
+    url: http://www.fiammaglass.com/
   - name: Phil Vinson
     url: http://www.madeinchinastudio.com
   - name: Danny White
     url: http://www.iamdannywhite.com
+  - name: Karen Willenbrink-Johnsen & Jasen Johnsen
+    url: http://www.willenbrinkjohnsen.com/
